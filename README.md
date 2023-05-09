@@ -20,7 +20,9 @@ Here I'll detail more in depth what changes with each option.
 1. Battle Chip Codes
 There are currently three methods for ChipCodes.
 The first is the default, which is completely random. It will randomize all battlechips in the game to have a chipcode from A-Z.
+
 Second is a less random variation that limits it to only 10 chipcodes. This should ensure a more combo-heavy folder, and can lead some pretty insane synergies.
+
 Finally, is something I call Solitaire mode because I am bad at words. It gives every battle chip a Chipcode of N, allowing you to pair any combination of chips you want.
 
 2. Enemy HP
