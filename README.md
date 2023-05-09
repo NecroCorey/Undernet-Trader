@@ -14,7 +14,7 @@ It will currently randomize:
 7. Shop Prices
 
 
-### Randomization Explanations
+## Randomization Explanations
 Here I'll detail more in depth what changes with each option.
 
 1. Battle Chip Codes
@@ -46,7 +46,7 @@ Chipcodes aren't shown in the shop menu and will be fixed in a future update.
 This randomizes shop prices, but keeps it relative to the location the shop is found, ensuring that chips can still be purchased.
 
 
-#### How To Use it
+## How To Use it
 Step 0: Install the latest release of Chaudloader, found here https://github.com/RockmanEXEZone/chaudloader/releases.
 Place the Undernet Trader mod folder in the "mods" folder. Found at exe<mods.
 
@@ -63,7 +63,7 @@ Rename it to labels.bin then go back to your Megaman Battle Network Legacy Colle
 Step 4: In the Chaudloader menu, enable the Undernet Trader mod and hit Play.
 
 
-##### Future Plans
+## Future Plans
 This is still an early version of the randomizer so I have some plans to update in the future. As well as this is a learning exercise to help me learn to program. Things will be janky for a while until I am more experienced.
 
 First of all. There is no logic at all for handling enemy HP, and I'll be fixing that once I figure out a way to properly balance it. There are a couple gross scenarios you can encounter like a Met with 300 HP in the opening tutorial.
