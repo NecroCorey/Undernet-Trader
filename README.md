@@ -50,7 +50,7 @@ This randomizes shop prices, but keeps it relative to the location the shop is f
 
 ## How To Use it
 Step 0: Install the latest release of Chaudloader, found here https://github.com/RockmanEXEZone/chaudloader/releases.
-Place the Undernet Trader mod folder in the "mods" folder. Found at exe<mods.
+Extract Undernet Trader in the "mods" folder. Found at exe<mods.
 
 Step 1: Go to your install folder by right clicking the game in Steam and going to Manage, then Browse Local Files.
 Navigate to the exe folder, then the data folder. You will see a bunch of files named exe.dat here. They're just zip files that have been renamed.
@@ -59,7 +59,7 @@ Right click and open the exe1.dat file with 7-zip or winrar, then open the exe1 
 Step 2: Open the Undernet Trader mod folder containing the randomizer, run the exe and choose the options you prefer, then click Randomize. Depending on the options it could take a minute so you may need to be patient.
 
 Step 3: When it's done randomizing, open the folder named "output". Your new labels.bin will be located there with the seed name added to it.
-Rename it to labels.bin, then paste in the Undernet Trader root folder, then start your game.
+Rename it to labels.bin, paste in the Undernet Trader root folder, then start your game.
 
 Step 4: In the Chaudloader menu, enable the Undernet Trader mod and hit Play.
 
