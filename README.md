@@ -54,13 +54,12 @@ Place the Undernet Trader mod folder in the "mods" folder. Found at exe<mods.
 
 Step 1: Go to your install folder by right clicking the game in Steam and going to Manage, then Browse Local Files.
 Navigate to the exe folder, then the data folder. You will see a bunch of files named exe.dat here. They're just zip files that have been renamed.
-Right click and open the exe1.dat file with 7-zip or winrar, then open the exe1 folder inside it. Look for the labels.bin file there, then copy it to the randomizer folder.
+Right click and open the exe1.dat file with 7-zip or winrar, then open the exe1 folder inside it. Look for the labels.bin file there, then paste it in the BASE folder, located in the Undernet Trader mod folder.
 
-Step 2: Open the folder containing the randomizer, and paste the labels.bin there. Run the exe and choose the options you prefer, then click Randomize.
-Depending on the options it could take a minute so you may need to be patient.
+Step 2: Open the Undernet Trader mod folder containing the randomizer, run the exe and choose the options you prefer, then click Randomize. Depending on the options it could take a minute so you may need to be patient.
 
-Step 3: When it's done randomizing, you should see a new folder called "output". Your new labels.bin will be located there with the seed name added to it.
-Rename it to labels.bin then go back to your Megaman Battle Network Legacy Collection Vol.1 install folder, and go to the mods folder created by Chaudloader. In the Undernet Trader folder, paste your randomized labels.bin there and start your game.
+Step 3: When it's done randomizing, open the folder named "output". Your new labels.bin will be located there with the seed name added to it.
+Rename it to labels.bin, then paste in the Undernet Trader root folder, then start your game.
 
 Step 4: In the Chaudloader menu, enable the Undernet Trader mod and hit Play.
 
