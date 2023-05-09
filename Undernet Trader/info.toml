@@ -1,0 +1,4 @@
+title = "Battle Network 1 Randomizer"
+version = "1.0.0"
+authors = [ "Necro" ]
+requires_loader_version = ">=0.8.1"
