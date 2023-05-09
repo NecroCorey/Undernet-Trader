@@ -75,3 +75,11 @@ Third, Mystery Data is entirely untouched for now. I just don't know how to do t
 Fourth, Chip Trader Machines haven't been changed yet, though they shouldn't be difficult once I locate them.
 
 Finally, I don't know how possible it even is, but I planned on trying to find a way to allow you to escape battles without requiring an escape chip.
+
+
+## Acknowledgments
+I wanted to thank a couple people for getting this off the ground. As someone with almost no coding experience it didn't even seem possible for me without their help.
+
+Thanks to Mips96 for creating this template for making simple randomizers. Even if we never actually spoke to one another. https://github.com/Mips96/SimpleRandomizerMaker
+
+As well as a Big thanks to Changmen for bearing with me when I was totally lost with basic coding stuff.
