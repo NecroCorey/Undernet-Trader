@@ -67,7 +67,10 @@ Step 4: In the Chaudloader menu, enable the Undernet Trader mod and hit Play.
 This is still an early version of the randomizer so I have some plans to update in the future. As well as this is a learning exercise to help me learn to program. Things will be janky for a while until I am more experienced.
 
 First of all. There is no logic at all for handling enemy HP, and I'll be fixing that once I figure out a way to properly balance it. There are a couple gross scenarios you can encounter like a Met with 300 HP in the opening tutorial.
+
 Secondly, chipcodes don't properly show because I am still learning how to properly code a method of doing so without breaking something.
 Third, Mystery Data is entirely untouched for now. I just don't know how to do that yet.
+
 Fourth, Chip Trader Machines haven't been changed yet, though they shouldn't be difficult once I locate them.
+
 Finally, I don't know how possible it even is, but I planned on trying to find a way to allow you to escape battles without requiring an escape chip.
